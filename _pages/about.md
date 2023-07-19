@@ -22,9 +22,9 @@ Hongbo Yin received the B.S. degree in Yangtze Normal University, Chongqing, Chi
 
 Research interests
 ======
-- *Internet of vehicles, Connected autonomous driving*
+- *Internet of vehicles (IoV), Connected autonomous driving*
 - *Mobile edge computing*
-- *Federated learning*
+- *Machine learning, Federated learning*
 - *Blockchain*
 
 <span class='anchor' id='-Researches'></span>
@@ -74,6 +74,13 @@ Publications
 - 黄晓舸, **吴雨航**, 尹宏博, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (发明专利, 导师一作, 已受理).
 - 黄晓舸, 尹宏博, **吴雨航**, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (发明专利, 导师一作, 已受理).
 - 黄晓舸, 尹宏博, **吴雨航**, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (发明专利, 导师一作, 已受理).
+- 
+- 黄晓舸，**尹宏博**，吴雨航，一种车联网中基于区块链的异步联邦学习方法， 202210916511.2 (发明专利，导师一作，已受理)
+- 黄晓舸，**尹宏博**，吴雨航，一种基于区块链的车联网安全数据共享方法， 202310636636.4 (发明专利，导师一作，已受理)
+- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分层联邦学习方法, 202210980496.8 (发明专利，三作，已受理).
+- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (发明专利，三作，已受理).
+![image](https://github.com/YinHonb/YinHonb.github.io/assets/102475279/f1a50bc4-7a9c-48b4-bdad-0cd6e88cfdb6)
+
 
 <span class='anchor' id='-Projects'></span>
 

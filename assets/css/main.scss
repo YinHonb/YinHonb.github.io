@@ -70,8 +70,8 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 10%;
+            min-width: 180px;
+            max-width: 25%;
             order: 1;
         }
         

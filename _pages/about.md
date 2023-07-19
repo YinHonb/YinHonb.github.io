@@ -23,7 +23,7 @@ Hongbo Yin received the B.S. degree in Yangtze Normal University, Chongqing, Chi
 Education
 ======
 - *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
-- *2017.09 - 2021.06*, Shanghai Maritime University, Communication engineering, Bachelor of Engineering
+- *2017.09 - 2021.06*, Yangtze Normal University, Electronic information science and technology, Bachelor of Engineering
 
 <span class='anchor' id='-Researches'></span>
 

@@ -63,6 +63,14 @@ Published
 - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 12-16. (CCF-B, 1st (supervisor), Published) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/BHCFL-view.svg' alt="sym" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 12-16. (CCF-B, 1st (supervisor), Published) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
+</div>
+</div>
+
 - 黄晓舸，**尹宏博**，吴雨航，一种车联网中基于区块链的异步联邦学习方法， 202210916511.2 (发明专利，导师一作，已受理)
 - 黄晓舸，**尹宏博**，吴雨航，一种基于区块链的车联网安全数据共享方法， 202310636636.4 (发明专利，导师一作，已受理)
 - 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分层联邦学习方法, 202210980496.8 (发明专利，三作，已受理).

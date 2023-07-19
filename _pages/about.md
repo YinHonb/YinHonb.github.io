@@ -85,10 +85,35 @@ Under review
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
-  - Xiaoge Huang, Hongbo Yin, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", Digital Communications and Networks, 2023. (JCR: Q1, IF:7.9，1st (supervisor)，终审) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
+  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", Digital Communications and Networks, 2023. (JCR: Q1, IF:7.9，1st (supervisor)，终审) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
   </div>
 </div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/DCAN2023.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", IEEE/ACM Transactions on Networking, 2023. (JCR: Q1, IF:7.9，1st (supervisor)，终审) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/DCAN2023.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", Digital Communications and Networks, 2023. (JCR: Q1, IF:7.9，1st (supervisor)，终审) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
+  </div>
+</div>
+
+
 
 <span class='anchor' id='-Projects'></span>
 

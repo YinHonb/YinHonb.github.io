@@ -63,14 +63,14 @@
     }
     
     .paper-box-text{
-        max-width: 100%;
+        max-width: 200%;
         order: 2;
     }
     
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 400px;
+            min-width: 200px;
             max-width: 40%;
             order: 1;
         }

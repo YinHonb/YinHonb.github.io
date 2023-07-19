@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-Biography'></span>
 
-Hongbo Yin received the B.S. degree in Yangtze Normal University, Chongqing, China, in 2021. He is currently working toward the M.S. degree in Information and Communication Engineering with Wireless Transmission Laboratory, Chongqing University of Posts and Telecommunications, Chongqing, China, under the supervision of [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). His main research interests are blockchain technologies, Internet of Things, and edge computing network.
+Hongbo Yin received the B.S. degree in Yangtze Normal University, Chongqing, China, in 2021. He is currently working toward the M.S. degree in the School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing, China, under the supervision of professor [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). His main research interests are Federated learning, Blockchain, Internet of Vehicles, and Mobile edge computing.
 <span class='anchor' id='-Education'></span>
 
 Research interests

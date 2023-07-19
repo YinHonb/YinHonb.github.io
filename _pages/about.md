@@ -56,8 +56,6 @@ Publications
 
 Published
 ------
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/BHCFL-view.svg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,9 +69,6 @@ Published
 - 黄晓舸，**尹宏博**，吴雨航，一种基于区块链的车联网安全数据共享方法， 202310636636.4 (发明专利，导师一作，已受理)
 - 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分层联邦学习方法, 202210980496.8 (发明专利，三作，已受理).
 - 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (发明专利，三作，已受理).
-
-</div>
-</div>
 
 ***Under review***
 - 123

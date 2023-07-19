@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-Biography'></span>
 
-Yuhang Wu received the B.S. degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021.  I am currently working toward the M.S. degree in Information and Communication Engineering with Chongqing University of Posts and Telecommunications, Chongqing, China, under the supervision of [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm).  My main research interests are federated learning, edge computing network, blockchain and Internet of Vehicles.
-
+Hongbo Yin received the B.S. degree in Yangtze Normal University, Chongqing, China, in 2021. He is currently working toward the M.S. degree in Information and Communication Engineering with Wireless Transmission Laboratory, Chongqing University of Posts and Telecommunications, Chongqing, China, under the supervision of [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). His main research interests are blockchain technologies, Internet of Things, and edge computing network.
 <span class='anchor' id='-Education'></span>
 
 Education

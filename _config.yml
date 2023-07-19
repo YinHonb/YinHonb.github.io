@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhang Wu"
+  name             : "Hongbo Yin"
   avatar           : "202103picture-square.jpg"
   bio              : "Master Degree Candidate"
   location         : "Chongqing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "hangyuwow@gmail.com"
+  email            : "yinhub@yeah.net"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hanghangwin"
+  github           : "YinHonb"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8681-1538"
+  orcid            : "https://orcid.org/0009-0006-6538-9047"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -82,7 +82,7 @@ Under review
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE WCSP 2022</div>
-      <img src='images/WCSP2022.png' alt="sym" width="100%">
+      <img src='images/DCAN2023.pdf' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">

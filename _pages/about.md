@@ -55,7 +55,7 @@ Publications
 ======
 - ***Published***
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/BHCFL-view.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/BHCFL-view.svg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 12-16. (CCF-B, 1st (supervisor), Published) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)

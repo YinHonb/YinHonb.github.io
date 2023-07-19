@@ -113,6 +113,18 @@ Under review
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/DCAN2023.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  - Yuhang Wu, Xiaoge Huang, **Hongbo Yin**, Chengchao Liang, Qianbin Chen, “Personalized Federated Mutual Learning for Communication Efficient in Internet of Vehicles”, IEEE Communications Letters, 2023. (JCR: Q1, IF:7.9，1st (supervisor)，终审) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
+  </div>
+</div>
+
 <span class='anchor' id='-Projects'></span>
 
 Projects

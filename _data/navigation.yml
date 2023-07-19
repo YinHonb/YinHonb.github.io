@@ -2,6 +2,9 @@
 main:
   - title: "Biography"
     url: "/#-Biography"
+
+     - title: "Interests"
+    url: "/#-Interests"
     
   - title: "Education"
     url: "/#-Education"

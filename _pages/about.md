@@ -26,13 +26,6 @@ Interests
 - *Machine learning, Federated learning*
 - *Blockchain*
 
-<span class='anchor' id='-Education'></span>
-
-Education
-======
-- *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
-- *2017.09 - 2021.06*, Yangtze Normal University, Electronic information science and technology, Bachelor of Engineering
-
 <span class='anchor' id='-Researches'></span>
 
 Researches
@@ -158,3 +151,11 @@ Honors
   - 2020“合泰“杯单片机设计竞赛重庆市一等奖
   - 2019全国大学生电子设计竞赛重庆市二等奖
   - 2019“合泰“杯单片机设计竞赛重庆市一等奖
+
+<span class='anchor' id='-Education'></span>
+
+Education
+======
+- *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
+- *2017.09 - 2021.06*, Yangtze Normal University, Electronic information science and technology, Bachelor of Engineering
+

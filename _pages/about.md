@@ -70,7 +70,7 @@ Under review
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", Digital Communications and Networks, 2023. (JCR: Q1, IF:7.9，1st (supervisor), 终审) [[pdf]]
+  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", Digital Communications and Networks, 2023. (JCR: Q1, IF:7.9，1st (supervisor), Final decision) [[pdf]]
   </div>
 </div>
 

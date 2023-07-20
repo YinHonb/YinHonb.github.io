@@ -56,7 +56,8 @@
         width: 30%;
         order: 1;
         img {
-            max-width: 210px;
+            max-width: 300px;
+            max-high: 300px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -70,7 +71,7 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 210px;
+            min-width: 300;
             max-width: 25%;
             order: 1;
         }
@@ -78,7 +79,7 @@
         .paper-box-text{
             justify-content: left;
             padding-left: 1em;
-            max-width: 70%;
+            max-width: 60%;
             order: 2;
         }
 

@@ -61,7 +61,7 @@ Published
   </div>
 </div>
 
-Under review
+Submited
 ------
 <div class='paper-box'>
   <div class='paper-box-image'>

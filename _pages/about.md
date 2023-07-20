@@ -93,7 +93,7 @@ Under review
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/DCAN2023.png' alt="sym" width="100%">
+      <img src='images/letter2023.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">

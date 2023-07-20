@@ -64,7 +64,7 @@ Published
   </div>
   <div class='paper-box-text' markdown="1">
 
-  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, 2022, pp. 12-16. (CCF-B, 1st (supervisor), Published) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
+  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, 2022, pp. 12-16. (1st (supervisor), Published) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
   </div>
 </div>
 

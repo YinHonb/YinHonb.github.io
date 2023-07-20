@@ -2,9 +2,6 @@
 main:
   - title: "Biography"
     url: "/#-Biography"
-    
-  - title: "Education"
-    url: "/#-Education"
 
   - title: "Researches"
     url: /#-Researches
@@ -16,4 +13,7 @@ main:
     url: /#-Projects   
 
   - title: "Honors"
-    url: /#-Honors     
+    url: /#-Honors  
+
+  - title: "Education"
+    url: "/#-Education"

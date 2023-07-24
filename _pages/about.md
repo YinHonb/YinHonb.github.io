@@ -69,7 +69,6 @@ Patents
 - 黄晓舸, 邓雪松, 任洋, **尹宏博**, 一种基于DAG区块链的联邦学习方法, 202210656438.X (发明专利，已受理)
 
 
-
 <span class='anchor' id='-Researches'></span>
 
 Researches

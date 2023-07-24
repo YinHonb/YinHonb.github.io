@@ -94,9 +94,9 @@ Projects
   - 负责设计雾计算网络中可靠区块链分片方案
 
 
-<span class='anchor' id='-Honors'></span>
+<span class='anchor' id='-Awards'></span>
 
-Honors
+Awards
 ======
 - ***2023***
   - 第十四届蓝桥杯python重庆**市二等奖**

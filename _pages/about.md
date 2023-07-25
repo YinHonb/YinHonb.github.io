@@ -52,12 +52,12 @@ Submited
 
   - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", **Pending final decision** in Digital Communications and Networks (DCAN), 2023. (JCR: Q1, IF:7.9, 1st (supervisor)) [pdf] [code]
 
-  - **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles", **Under Review** in IEEE Communications Letters (CL), 2023. [pdf]
+  - **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles", **Under Review** in IEEE Wireless Communications Letters (WCL), 2023. [pdf]
 
   <div class='paper-box-text' markdown="1">
-  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", **Under Review** in IEEE/ACM Transactions on Networking (ToN), 2023. [pdf]
+  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", **Under Review** in China Communications (China Commun.), 2023. [pdf]
 
-  - Yuhang Wu, Xiaoge Huang, **Hongbo Yin**, Chengchao Liang, Qianbin Chen, “Personalized Federated Mutual Learning for Communication Efficient in Internet of Vehicles”, **Under Review** in IEEE Communications Letters (CL), 2023. [pdf]
+  - Yuhang Wu, Xiaoge Huang, **Hongbo Yin**, Chengchao Liang, Qianbin Chen, “Personalized Federated Mutual Learning for Communication Efficient in Internet of Vehicles”, **Under Review** in IEEE Wireless Communications Letters (WCL), 2023. [pdf]
 
 Patents
 ------

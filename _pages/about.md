@@ -57,7 +57,7 @@ Submited
   <div class='paper-box-text' markdown="1">
   - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", **Under Review** in China Communications (China Commun.), 2023. [pdf]
 
-  - Yuhang Wu, Xiaoge Huang, **Hongbo Yin**, Chengchao Liang, Qianbin Chen, “Personalized Federated Mutual Learning for Communication Efficient in Internet of Vehicles”, **Under Review** in IEEE Wireless Communications Letters (WCL), 2023. [pdf]
+  - Yuhang Wu, Xiaoge Huang, **Hongbo Yin**, Chengchao Liang, Qianbin Chen, “Personalized Federated Mutual Learning for Communication Efficient in Internet of Vehicles”, **Under Review** in IEEE Wireless Communications Letters (WCL), 2023. [[TechRxiv]](https://www.techrxiv.org/articles/preprint/DAG_Blockchain-based_Personalized_Federated_Mutual_learning_in_Internet_of_Vehicles/23757408)
 
 Patents
 ------

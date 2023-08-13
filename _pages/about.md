@@ -50,14 +50,13 @@ Published
 Submited
 ------
 
-  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", **Pending final decision** in Digital Communications and Networks (DCAN), 2023. (JCR: Q1, IF:7.9, 1st (supervisor)) [pdf] [code]
+  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", **Accepted** in Digital Communications and Networks (DCAN), 2023. (JCR: Q1, IF:7.9, 1st (supervisor)) [pdf] [code]
 
   - **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles", **Under Review** in IEEE Wireless Communications Letters (WCL), 2023. [[TechRxiv]](https://www.techrxiv.org/articles/preprint/Multi-Region_Asynchronous_Swarm_Learning_for_Data_Sharing_in_Large-Scale_Internet_of_Vehicles/23759613)
 
   <div class='paper-box-text' markdown="1">
   - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", **Under Review** in China Communications (China Commun.), 2023. [pdf]
 
-  - Yuhang Wu, Xiaoge Huang, **Hongbo Yin**, Chengchao Liang, Qianbin Chen, “Personalized Federated Mutual Learning for Communication Efficient in Internet of Vehicles”, **Under Review** in IEEE Wireless Communications Letters (WCL), 2023. [[TechRxiv]](https://www.techrxiv.org/articles/preprint/DAG_Blockchain-based_Personalized_Federated_Mutual_learning_in_Internet_of_Vehicles/23757408)
 
 Patents
 ------
@@ -79,9 +78,8 @@ Researches
 <b>Blockchain is very good</b>
 </div>
 </div>
-Blockchain is very good
- - one
- - two
+Visualized platform
+This part is to be continued.
  
 
 

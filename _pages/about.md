@@ -21,16 +21,17 @@ Hongbo Yin received the B.S. degree in Yangtze Normal University, Chongqing, Chi
 
 Interests
 ------
-- *Internet of vehicles (IoV), Connected autonomous driving*
-- *Mobile edge computing*
+- *Collective Intelligence*
 - *Machine learning, Federated learning*
 - *Blockchain*
+- *Internet of vehicles (IoV), Mobile edge computing*
   
 <span class='anchor' id='-Publications'></span>
 
 Publications
 ======
 
+<!--
 Published
 ------
 
@@ -46,30 +47,36 @@ Published
   - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, 2022, pp. 12-16. (1st (supervisor), Published) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
   </div>
 </div>
-
-Submited
+ -->
+ 
+Published
 ------
 
-  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-Based Swarm Learning (DSL): A Secure Asynchronous Learning Framework for Internet of Vehicles", **Accepted** in Digital Communications and Networks (DCAN), 2023. (JCR: Q1, IF:7.9, 1st (supervisor)) [pdf] [code]
+  - Hanwen Zhang, Supeng Leng, **Hongbo Yin**, Shui Yu "Intelligent Consensus Enhanced Spectrum Sharing in Heterogeneous Wireless Networks", IEEE Internet of Things Journal, 2024. [[paper]](https://ieeexplore.ieee.org/document/10584475)
 
-  - **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles", **Accepted** in IEEE Communications Letters (CL), 2023. [[TechRxiv]](https://www.techrxiv.org/articles/preprint/Multi-Region_Asynchronous_Swarm_Learning_for_Data_Sharing_in_Large-Scale_Internet_of_Vehicles/23759613)
+  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-based swarm learning: a secure asynchronous learning framework for Internet of Vehicles", Digital Communications and Networks, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S2352864823001578)
+
+  - **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles", IEEE Communications Letters, 2023. [[paper]](https://ieeexplore.ieee.org/document/10247620)
 
   <div class='paper-box-text' markdown="1">
-  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", **Under Review** in China Communications (China Commun.), 2023. [pdf]
+  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", China Communications, 2023. [[paper]](https://ieeexplore.ieee.org/document/10507212)
+
+  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, 2022. [[paper]](https://ieeexplore.ieee.org/document/10039136)
 
 
 Patents
 ------
 
-- 黄晓舸, **尹宏博**, 吴雨航, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (发明专利，导师一作，已受理)
-- 黄晓舸, **尹宏博**，吴雨航, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (发明专利，导师一作，已受理)
-- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分层联邦学习方法, 202210980496.8 (发明专利，已受理)
-- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (发明专利，已受理)
-- 黄晓舸, 邓雪松, 任洋, **尹宏博**, 一种基于DAG区块链的联邦学习方法, 202210656438.X (发明专利，已受理)
+- 黄晓舸, **尹宏博**, 吴雨航, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (已受理)
+- 黄晓舸, **尹宏博**，吴雨航, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (已受理)
+- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分层联邦学习方法, 202210980496.8 (已受理)
+- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (已受理)
+- 黄晓舸, 邓雪松, 任洋, **尹宏博**, 一种基于DAG区块链的联邦学习方法, 202210656438.X (已受理)
 
 
 <span class='anchor' id='-Researches'></span>
 
+<!--
 Researches
 ======
 ## <span style="color: #00369f;">1.Blockchain</span>
@@ -79,7 +86,7 @@ Researches
 </div>
 </div>
 This part is to be continued.
- 
+ -->
 
 
 <span class='anchor' id='-Projects'></span>
@@ -95,23 +102,14 @@ Projects
 
 Awards
 ======
-- ***2023***
-  - 第十四届蓝桥杯python重庆**市二等奖**
-  - 第十届大唐杯重庆**市三等奖**
-- ***2022***
-  - 硕士二年级学业**特等奖学金**（Top 5%）
-  - 第十四届蓝桥杯python全国总决赛**三等奖**
-  - **优秀研究生**
-- ***2021***
-  - 硕士一年级新生学业**二等奖学金**
-  - 本科**优秀毕业生**及**优秀毕业论文**
+- ***2024***
+  - **重庆市优秀毕业硕士生**
+  - 硕士**优秀毕业论文**
+  - 硕士三年级学业**特等奖学金**（Top 5%）
 - ***Earlier***
+  - 硕士二年级学业**特等奖学金**（Top 5%）
+  - 本科**优秀毕业生**及**优秀毕业论文**
   - 本科生**国家奖学金**
-  - 本科学业奖学金6余次
-  - 2020“TI杯”重庆市大学生电子设计竞赛重庆市三等奖
-  - 2020“合泰“杯单片机设计竞赛重庆市一等奖
-  - 2019全国大学生电子设计竞赛重庆市二等奖
-  - 2019“合泰“杯单片机设计竞赛重庆市一等奖
 
 <span class='anchor' id='-Education'></span>
 

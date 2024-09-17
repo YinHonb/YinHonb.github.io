@@ -52,26 +52,26 @@ Published
 Published
 ------
 
-  - Hanwen Zhang, Supeng Leng, **Hongbo Yin**, Shui Yu "Intelligent Consensus Enhanced Spectrum Sharing in Heterogeneous Wireless Networks", IEEE Internet of Things Journal, 2024. [[paper]](https://ieeexplore.ieee.org/document/10584475)
+  - Hanwen Zhang, Supeng Leng, **Hongbo Yin**, Shui Yu "Intelligent Consensus Enhanced Spectrum Sharing in Heterogeneous Wireless Networks", **IEEE Internet of Things Journal**, 2024. [[paper]](https://ieeexplore.ieee.org/document/10584475)
 
-  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-based swarm learning: a secure asynchronous learning framework for Internet of Vehicles", Digital Communications and Networks, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S2352864823001578)
+  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-based swarm learning: a secure asynchronous learning framework for Internet of Vehicles", **Digital Communications and Networks**, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S2352864823001578)
 
-  - **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles", IEEE Communications Letters, 2023. [[paper]](https://ieeexplore.ieee.org/document/10247620)
+  - **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles", **IEEE Communications Letters**, 2023. [[paper]](https://ieeexplore.ieee.org/document/10247620)
 
   <div class='paper-box-text' markdown="1">
-  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", China Communications, 2023. [[paper]](https://ieeexplore.ieee.org/document/10507212)
+  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", **China Communications**, 2023. [[paper]](https://ieeexplore.ieee.org/document/10507212)
 
-  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, 2022. [[paper]](https://ieeexplore.ieee.org/document/10039136)
+  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022. [[paper]](https://ieeexplore.ieee.org/document/10039136)
 
 
 Patents
 ------
 
-- 黄晓舸, **尹宏博**, 吴雨航, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (已受理)
-- 黄晓舸, **尹宏博**，吴雨航, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (已受理)
-- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分层联邦学习方法, 202210980496.8 (已受理)
-- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (已受理)
-- 黄晓舸, 邓雪松, 任洋, **尹宏博**, 一种基于DAG区块链的联邦学习方法, 202210656438.X (已受理)
+- 黄晓舸, **尹宏博**, 吴雨航, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (受理)
+- 黄晓舸, **尹宏博**，吴雨航, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (受理)
+- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分层联邦学习方法, 202210980496.8 (受理)
+- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (受理)
+- 黄晓舸, 邓雪松, 任洋, **尹宏博**, 一种基于DAG区块链的联邦学习方法, 202210656438.X (受理)
 
 
 <span class='anchor' id='-Researches'></span>
@@ -115,7 +115,7 @@ Awards
 
 Education
 ======
-- *2024.09 - 2028.06*, University of Electronic Science and Technology of China, Ph.D Degree Candidate
+- *2024.09 - 2028.06*, University of Electronic Science and Technology of China, Electronic Information, Ph.D Degree Candidate
 - *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
 - *2017.09 - 2021.06*, Yangtze Normal University, Electronic information science and technology, Bachelor of Engineering
 

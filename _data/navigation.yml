@@ -8,12 +8,12 @@ main:
 
   - title: "Projects"
     url: /#-Projects   
-
-   - title: "Services"
-    url: /#-Services  
     
   - title: "Awards"
     url: /#-Awards  
+
+  - title: "Services"
+    url: /#-Services  
 
   - title: "Education"
     url: "/#-Education"

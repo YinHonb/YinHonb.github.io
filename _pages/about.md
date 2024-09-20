@@ -113,9 +113,16 @@ Awards
 
 <span class='anchor' id='-Education'></span>
 
+Services
+======
+- Reviewer for IEEE Internet of Things Journal
+- Reviewer for AIoTSys 2024
+  
+<span class='anchor' id='-Education'></span>
+
 Education
 ======
-- *2024.09 - 2028.06*, University of Electronic Science and Technology of China, Electronic Information, Ph.D Degree Candidate
+- *2024.09 - Now*, University of Electronic Science and Technology of China, Electronic Information, Ph.D Degree Candidate
 - *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
 - *2017.09 - 2021.06*, Yangtze Normal University, Electronic information science and technology, Bachelor of Engineering
 

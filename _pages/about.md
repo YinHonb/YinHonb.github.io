@@ -117,6 +117,7 @@ Services
 ======
 - Reviewer for IEEE Internet of Things Journal
 - Reviewer for AIoTSys 2024
+- Reviewer for IEEE Network Magazine
   
 <span class='anchor' id='-Education'></span>
 

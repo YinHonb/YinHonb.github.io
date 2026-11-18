@@ -61,39 +61,39 @@ I received my M.S. degree from the School of Communication and Information Engin
 </div>
 <p class="publication-count" aria-live="polite" hidden></p>
 
-- Shuai Wang, Sai Wu, **Hongbo Yin**, Yutong Zhao, Ke Zhang “Collaborative 3D Continuous Trajectory Optimization Method for Multi-UAV Post-Disaster Emergency Exploration”, **Journal of Circuits, Systems and Computers**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://doi.org/10.1142/S0218126626440081)
+- <span class="publication-badge publication-badge--sci" title="中科院 SCI 四区">SCI四区</span> Shuai Wang, Sai Wu, **Hongbo Yin**, Yutong Zhao, Ke Zhang “Collaborative 3D Continuous Trajectory Optimization Method for Multi-UAV Post-Disaster Emergency Exploration”, **Journal of Circuits, Systems and Computers**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://doi.org/10.1142/S0218126626440081)
 
-- Jichun Wu, **Hongbo Yin**, Gaoxiang Wu, Hu Wan “SPO-YOLO: Lightweight Small-Object Detection for UAV Aerial Imagery with Federated Learning”, **Journal of Circuits, Systems and Computers**, 2026. <span class="paper-note">(Accepted; Co-first author)</span> [[paper]](https://doi.org/10.1142/S0218126626440135)
+- <span class="publication-badge publication-badge--sci" title="中科院 SCI 四区">SCI四区</span> Jichun Wu, **Hongbo Yin**, Gaoxiang Wu, Hu Wan “SPO-YOLO: Lightweight Small-Object Detection for UAV Aerial Imagery with Federated Learning”, **Journal of Circuits, Systems and Computers**, 2026. <span class="paper-note">(Accepted; Co-first author)</span> [[paper]](https://doi.org/10.1142/S0218126626440135)
 
-- **Hongbo Yin**, Jichun Wu, Shuai Wang, Kim Dongkyun, Yin Zhang “FIFOFL: A FIFO Queue-Driven Asynchronous Federated Learning Approach for Real-Time Vehicle Object Detection”, **BlockSys**, 2026. <span class="paper-note">(Accepted)</span>
+- <span class="publication-badge publication-badge--ccf-c" title="CCF C 类">CCF-C</span> **Hongbo Yin**, Jichun Wu, Shuai Wang, Kim Dongkyun, Yin Zhang “FIFOFL: A FIFO Queue-Driven Asynchronous Federated Learning Approach for Real-Time Vehicle Object Detection”, **BlockSys**, 2026. <span class="paper-note">(Accepted)</span>
 
-- **Hongbo Yin**, Jichun Wu, Zhou Yang, Chi Jiang, Yin Zhang, Yan Zhang “Controlled Collaboration Geometry for Personalized Federated Learning”, **International Conference on Machine Learning (ICML)**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://icml.cc/virtual/2026/poster/61399)
+- <span class="publication-badge publication-badge--ccf-a" title="CCF A 类">CCF-A</span> **Hongbo Yin**, Jichun Wu, Zhou Yang, Chi Jiang, Yin Zhang, Yan Zhang “Controlled Collaboration Geometry for Personalized Federated Learning”, **International Conference on Machine Learning (ICML)**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://icml.cc/virtual/2026/poster/61399)
 
-- **Hongbo Yin**, Jinglin Wang, Chi Jiang, Ming Tao, Yin Zhang, Yan Zhang “FedTAC: Efficient Task Adaptive Collaboration for Personalized Federated Continual Learning in Edge Networks”, **IEEE GLOBECOM**, 2026. <span class="paper-note">(Accepted)</span>
+- <span class="publication-badge publication-badge--ccf-c" title="CCF C 类">CCF-C</span> **Hongbo Yin**, Jinglin Wang, Chi Jiang, Ming Tao, Yin Zhang, Yan Zhang “FedTAC: Efficient Task Adaptive Collaboration for Personalized Federated Continual Learning in Edge Networks”, **IEEE GLOBECOM**, 2026. <span class="paper-note">(Accepted)</span>
 
-- Chi Jiang, Tao Qiu, **Hongbo Yin**, Tianqing Zhu, Yin Zhang, Yan Zhang “Multi-Agent DAG Task Offloading in Vehicular Edge Networks with Topology and Resource Awareness”, **IEEE GLOBECOM**, 2026. <span class="paper-note">(Accepted)</span>
+- <span class="publication-badge publication-badge--ccf-c" title="CCF C 类">CCF-C</span> Chi Jiang, Tao Qiu, **Hongbo Yin**, Tianqing Zhu, Yin Zhang, Yan Zhang “Multi-Agent DAG Task Offloading in Vehicular Edge Networks with Topology and Resource Awareness”, **IEEE GLOBECOM**, 2026. <span class="paper-note">(Accepted)</span>
 
-- Xiaorui Luo, **Hongbo Yin**, Ziyu Chen, Yin Zhang “FedLing: Linguistic-Structure-Aware Federated Learning for Fair Multilingual LLM Adaptation”, **Findings of the Association for Computational Linguistics: EMNLP**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://aclanthology.org/2026.findings-emnlp.440/)
+- <span class="publication-badge publication-badge--ccf-b" title="CCF B 类">CCF-B</span> Xiaorui Luo, **Hongbo Yin**, Ziyu Chen, Yin Zhang “FedLing: Linguistic-Structure-Aware Federated Learning for Fair Multilingual LLM Adaptation”, **Findings of the Association for Computational Linguistics: EMNLP**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://aclanthology.org/2026.findings-emnlp.440/)
 
-- Chi Jiang, **Hongbo Yin**, Shuai Wang, Tianqing Zhu, Ming Tao, Yin Zhang, Yan Zhang “Multi-Modal and Multi-Scale Vulnerability Detection for Deployed Smart Contract Bytecode”, **IEEE Transactions on Dependable and Secure Computing**, 2026. <span class="paper-note">(Accepted)</span>
+- <span class="publication-badge publication-badge--ccf-a" title="CCF A 类">CCF-A</span> Chi Jiang, **Hongbo Yin**, Shuai Wang, Tianqing Zhu, Ming Tao, Yin Zhang, Yan Zhang “Multi-Modal and Multi-Scale Vulnerability Detection for Deployed Smart Contract Bytecode”, **IEEE Transactions on Dependable and Secure Computing**, 2026. <span class="paper-note">(Accepted)</span>
 
 - 王帅, **尹宏博**, 江池, 张科, 张引 “车联网中联邦学习模型低时延传输迁移方法研究”, **物联网学报**, 2025. [[paper]](https://www.wlwxb.com.cn/zh/article/doi/10.11959/j.issn.2096-3750.2026.00525/)
 
-- Binglei Yue, **Hongbo Yin**, Ke Zhang, Yin Zhang, Yan Zhang “ParaDepth: Distributed Multi-View 3D Reconstruction for Fire Scene”, **GPC**, 2025.
+- <span class="publication-badge publication-badge--ccf-c" title="CCF C 类">CCF-C</span> Binglei Yue, **Hongbo Yin**, Ke Zhang, Yin Zhang, Yan Zhang “ParaDepth: Distributed Multi-View 3D Reconstruction for Fire Scene”, **GPC**, 2025.
 
-- Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang “Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks”, **China Communications**, 2024. [[paper]](https://ieeexplore.ieee.org/abstract/document/10507212)
+- <span class="publication-badge publication-badge--sci" title="中科院 SCI 三区">SCI三区</span> Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang “Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks”, **China Communications**, 2024. [[paper]](https://ieeexplore.ieee.org/abstract/document/10507212)
 
-- Hanwen Zhang, Supeng Leng, **Hongbo Yin**, Shui Yu “Intelligent Consensus Enhanced Spectrum Sharing in Heterogeneous Wireless Networks”, **IEEE Internet of Things Journal**, 2024. [[paper]](https://ieeexplore.ieee.org/document/10584475)
+- <span class="publication-badge publication-badge--ccf-c" title="CCF C 类：IEEE Internet of Things Journal">CCF-C</span> Hanwen Zhang, Supeng Leng, **Hongbo Yin**, Shui Yu “Intelligent Consensus Enhanced Spectrum Sharing in Heterogeneous Wireless Networks”, **IEEE Internet of Things Journal**, 2024. [[paper]](https://ieeexplore.ieee.org/document/10584475)
 
 - Zixu Zhang, **Hongbo Yin**, Ying Wang, Guangsheng Yu, Xu Wang, Wei Ni, Ren Ping Liu “Enabling Efficient Cross-Shard Smart Contract Calling via Overlapping”, **ProvSec**, 2024. [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-0957-4_9)
 
 - **尹宏博**, 王帅, 张科, 张引 “车辆算力网络中异步鲁棒联邦学习方法研究”, **物联网学报**, 2024. [[paper]](https://www.wlwxb.com.cn/zh/article/doi/10.11959/j.issn.2096-3750.2024.00452/)
 
-- **Hongbo Yin**, Xiaoge Huang, Chengchao Liang, Bin Cao, Mu Zhou “Secure and Efficient Data Sharing for Internet of Vehicles: A Hierarchical Blockchain Enabled Asynchronous Federated Learning Approach”, **IEEE Transactions on Vehicular Technology**, 2024. [[paper]](https://ieeexplore.ieee.org/document/11015654)
+- <span class="publication-badge publication-badge--sci" title="中科院 SCI 二区 TOP">SCI二区TOP</span> **Hongbo Yin**, Xiaoge Huang, Chengchao Liang, Bin Cao, Mu Zhou “Secure and Efficient Data Sharing for Internet of Vehicles: A Hierarchical Blockchain Enabled Asynchronous Federated Learning Approach”, **IEEE Transactions on Vehicular Technology**, 2024. [[paper]](https://ieeexplore.ieee.org/document/11015654)
 
-- Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao “DAG-based swarm learning: a secure asynchronous learning framework for Internet of Vehicles”, **Digital Communications and Networks**, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S2352864823001578)
+- <span class="publication-badge publication-badge--sci" title="中科院 SCI 二区">SCI二区</span> Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao “DAG-based swarm learning: a secure asynchronous learning framework for Internet of Vehicles”, **Digital Communications and Networks**, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S2352864823001578)
 
-- **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen “Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles”, **IEEE Communications Letters**, 2023. [[paper]](https://ieeexplore.ieee.org/document/10247620)
+- <span class="publication-badge publication-badge--sci" title="中科院 SCI 三区">SCI三区</span> **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen “Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles”, **IEEE Communications Letters**, 2023. [[paper]](https://ieeexplore.ieee.org/document/10247620)
 
 - 黄晓舸, 吴雨航, **尹宏博**, 梁承超, 陈前斌 “车联网中基于有向无环图区块链的个性化联邦互蒸馏学习方法”, **电子与信息学报**, 2023. [[paper]](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT230976)
 

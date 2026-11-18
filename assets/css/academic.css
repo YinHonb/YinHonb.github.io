@@ -85,6 +85,11 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .publications-section > ul > li > p { margin: 0; }
 .publications-section > ul > li strong { color: var(--ink); font-weight: 600; }
 .publications-section > ul > li a { white-space: nowrap; font-size: 11px; font-weight: 600; }
+.publication-badge { display: inline-block; margin-right: 7px; padding: 3px 7px; border: 1px solid; border-radius: 4px; font: 600 10px/1.4 var(--sans); letter-spacing: .02em; vertical-align: .1em; white-space: nowrap; }
+.publication-badge--ccf-a { color: #a12c4e; background: #faeaf0; border-color: #ecc5d2; }
+.publication-badge--ccf-b { color: #6f429c; background: #f1eafb; border-color: #dac8ee; }
+.publication-badge--ccf-c { color: #275e9a; background: #e9f1fc; border-color: #c4d8ee; }
+.publication-badge--sci { color: #246c51; background: #eaf3ec; border-color: #c6ddcc; }
 .paper-note { color: var(--muted); font-size: 10px; }
 .publication-empty { padding: 30px 0; color: var(--muted); font-size: 13px; }
 .details-grid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 60px; padding-top: 58px; padding-bottom: 70px; }
@@ -170,6 +175,7 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
   .publications-section > ul > li { font-size: 13px; line-height: 1.95; padding: 21px 0 21px 37px; }
   .publications-section > ul > li::before { font-size: 11px; top: 24px; }
   .publications-section > ul > li a { font-size: 10px; }
+  .publication-badge { margin-right: 5px; padding: 3px 6px; font-size: 9px; }
   .paper-note { font-size: 9px; }
   .details-grid { grid-template-columns: 1fr; gap: 34px; padding-top: 37px; padding-bottom: 45px; }
   .details-grid .section-heading h2 { font-size: 28px; }

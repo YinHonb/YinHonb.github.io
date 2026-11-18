@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="{{ site.locale | default: 'en-US' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>{{ site.author.name | escape }} · Academic Homepage</title>
+  <meta name="description" content="{{ page.description | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.author.name | escape }} · Academic Homepage">
+  <meta property="og:description" content="{{ page.description | escape }}">
+  <meta property="og:image" content="{{ site.author.avatar | prepend: '/images/' | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/monogram.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+  <script src="{{ '/assets/js/academic.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-brand" href="{{ '/#-Biography' | relative_url }}" aria-label="Hongbo Yin, home"><span class="brand-mark">hy<span>·</span></span><span class="brand-name">Hongbo Yin</span></a>
+      <nav class="site-nav" aria-label="Main navigation">
+        {% for item in site.data.navigation.main %}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+  <main class="page-shell" id="main-content">{{ content }}</main>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>© {{ page.last_modified_at | date: '%Y' }} {{ site.author.name }}<span class="footer-separator"> / </span>UESTC</p>
+      <p>Updated {{ page.last_modified_at | date: '%B %Y' }}<a href="{{ '/#-Biography' | relative_url }}" class="back-to-top">Back to top <span aria-hidden="true">↑</span></a></p>
+    </div>
+  </footer>
+</body>
+</html>

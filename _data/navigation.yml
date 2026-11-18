@@ -1,19 +1,13 @@
-# main links links
+# Main links on the academic homepage.
 main:
-  - title: "Biography"
+  - title: "About"
     url: "/#-Biography"
-    
+
   - title: "Publications"
-    url: /#-Publications
-
-  - title: "Projects"
-    url: /#-Projects   
-    
-  - title: "Awards"
-    url: /#-Awards  
-
-  - title: "Services"
-    url: /#-Services  
+    url: "/#-Publications"
 
   - title: "Education"
     url: "/#-Education"
+
+  - title: "Service"
+    url: "/#-Services"

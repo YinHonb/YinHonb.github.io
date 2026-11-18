@@ -1,129 +1,129 @@
 ---
+layout: academic
 permalink: /
-title: "Biography"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+title: "Hongbo Yin"
+description: "Hongbo Yin is a Ph.D. candidate at UESTC, working on federated learning, collective intelligence, blockchain, and vehicular edge computing."
+last_modified_at: 2026-11-18
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<section class="hero" id="-Biography" aria-labelledby="profile-name" markdown="1">
+<div class="hero-copy" markdown="1">
 
-<span class='anchor' id='-Biography'></span>
+<p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Ph.D. Candidate · UESTC</p>
 
-Hongbo Yin is currently working toward his doctoral degree in the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, under the supervision of professor Yin Zhang. He received the M.S. degree in the School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing, China, under the supervision of professor [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). His main research interests are Federated learning, Blockchain, Internet of Vehicles, and Mobile edge computing.
+# Hongbo Yin <span class="name-cn" lang="zh-CN">尹宏博</span>
+{: #profile-name }
 
-Interests
-------
-- *Collective Intelligence*
-- *Machine learning, Federated learning*
-- *Blockchain*
-- *Internet of vehicles (IoV), Mobile edge computing*
-  
-<span class='anchor' id='-Publications'></span>
+<p class="hero-subtitle">Federated learning & collective intelligence</p>
 
-Publications
-======
+I am a Ph.D. candidate in the School of Information and Communication Engineering at the **University of Electronic Science and Technology of China (UESTC)**, supervised by Professor Yin Zhang.
 
-<!--
-Published
-------
+I received my M.S. degree from the School of Communication and Information Engineering at Chongqing University of Posts and Telecommunications, supervised by Professor [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). My research interests include federated learning, blockchain, the Internet of Vehicles, and mobile edge computing.
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">IEEE WCSP 2022</div>
-      <img src='images/WCSP2022.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, 2022, pp. 12-16. (1st (supervisor), Published) [[pdf]](http://YinHonb.github.io/files/WCSP2022.pdf)
-  </div>
+<div class="contact-links">
+<a class="contact-link contact-link--primary" href="mailto:{{ site.author.email }}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 6 9 7 9-7"/></svg>Email</a>
+<a class="contact-link" href="https://github.com/{{ site.author.github }}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M9 19c-4 1-4-2-6-2m12 5v-3.5c0-1 .1-1.5-.5-2 3.2-.4 6.5-1.5 6.5-7A5.5 5.5 0 0 0 19.5 6c.2-.8.2-2-.2-3-1.2-.4-3.7 1.4-3.7 1.4a13 13 0 0 0-7.2 0S5.9 2.6 4.7 3c-.4 1-.4 2.2-.2 3A5.5 5.5 0 0 0 3 9.5c0 5.5 3.3 6.6 6.5 7-.6.5-.6 1.5-.5 2V22"/></svg>GitHub<span class="external-arrow" aria-hidden="true">↗</span></a>
+<a class="contact-link" href="{{ site.author.orcid }}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8 10v7m0-10v.1M11 7h2.5a5 5 0 0 1 0 10H11z"/></svg>ORCID<span class="external-arrow" aria-hidden="true">↗</span></a>
 </div>
- -->
- 
-Published
-------
 
-  - Hanwen Zhang, Supeng Leng, **Hongbo Yin**, Shui Yu "Intelligent Consensus Enhanced Spectrum Sharing in Heterogeneous Wireless Networks", **IEEE Internet of Things Journal**, 2024. [[paper]](https://ieeexplore.ieee.org/document/10584475)
-
-  - Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao "DAG-based swarm learning: a secure asynchronous learning framework for Internet of Vehicles", **Digital Communications and Networks**, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S2352864823001578)
-
-  - **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles", **IEEE Communications Letters**, 2023. [[paper]](https://ieeexplore.ieee.org/document/10247620)
-
-  <div class='paper-box-text' markdown="1">
-  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks", **China Communications**, 2023. [[paper]](https://ieeexplore.ieee.org/document/10507212)
-
-  - Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang "Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks", 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022. [[paper]](https://ieeexplore.ieee.org/document/10039136)
-
-
-Patents
-------
-
-- 黄晓舸, **尹宏博**, 吴雨航, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (受理)
-- 黄晓舸, **尹宏博**，吴雨航, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (受理)
-- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分层联邦学习方法, 202210980496.8 (受理)
-- 黄晓舸, 吴雨航, **尹宏博**, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (受理)
-- 黄晓舸, 邓雪松, 任洋, **尹宏博**, 一种基于DAG区块链的联邦学习方法, 202210656438.X (受理)
-
-
-<span class='anchor' id='-Researches'></span>
-
-<!--
-Researches
-======
-## <span style="color: #00369f;">1.Blockchain</span>
-<div class='paper-box-plus'><div class='paper-box-video'><video src='videos/WeBASE-video.mp4' alt="sym" width="100%" controls></video></div>
-<div class='paper-box-text' markdown="1">
-<b>Visualized platform</b>
 </div>
+<figure class="portrait">
+<div class="portrait-frame"><img src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="Hongbo Yin" width="276" height="332" fetchpriority="high"></div>
+<figcaption><span class="location-pin" aria-hidden="true">⌖</span> {{ site.author.location }}</figcaption>
+</figure>
+</section>
+
+<section class="research-interests" aria-labelledby="interests-title" markdown="1">
+
+<h2 id="interests-title">Research interests</h2>
+
+- Collective intelligence
+- Machine learning & federated learning
+- Blockchain
+- Internet of Vehicles & mobile edge computing
+
+</section>
+
+<section class="content-section publications-section" id="-Publications" aria-labelledby="publications-title" markdown="1">
+
+<div class="section-heading">
+<div><p class="section-kicker">RESEARCH</p><h2 id="publications-title">Publications<span class="heading-period">.</span></h2></div>
+<p class="section-aside">Published & accepted</p>
 </div>
-This part is to be continued.
- -->
 
+<div class="publication-tools" hidden>
+<div class="publication-filters" aria-label="Filter publications by year"></div>
+<label class="publication-search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.5 4.5"/></svg><span class="sr-only">Search publications by title, author, or venue</span><input type="search" placeholder="Search publications" autocomplete="off"></label>
+</div>
+<p class="publication-count" aria-live="polite" hidden></p>
 
-<span class='anchor' id='-Projects'></span>
+- Shuai Wang, Sai Wu, **Hongbo Yin**, Yutong Zhao, Ke Zhang “Collaborative 3D Continuous Trajectory Optimization Method for Multi-UAV Post-Disaster Emergency Exploration”, **Journal of Circuits, Systems and Computers**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://doi.org/10.1142/S0218126626440081)
 
-Projects
-======
-- *2021.09 - 2023.12* 国家自然科学基金重点项目(No. 61831002): 面向智能服务的雾无线接入网络动态协同理论与关键技术 （参与）
-  - 负责设计基于区块链的雾计算动态卸载和资源分配算法
-  - 负责设计雾计算网络中可靠区块链分片方案
+- Jichun Wu, **Hongbo Yin**, Gaoxiang Wu, Hu Wan “SPO-YOLO: Lightweight Small-Object Detection for UAV Aerial Imagery with Federated Learning”, **Journal of Circuits, Systems and Computers**, 2026. <span class="paper-note">(Accepted; Co-first author)</span> [[paper]](https://doi.org/10.1142/S0218126626440135)
 
+- **Hongbo Yin**, Jichun Wu, Shuai Wang, Kim Dongkyun, Yin Zhang “FIFOFL: A FIFO Queue-Driven Asynchronous Federated Learning Approach for Real-Time Vehicle Object Detection”, **BlockSys**, 2026. <span class="paper-note">(Accepted)</span>
 
-<span class='anchor' id='-Awards'></span>
+- **Hongbo Yin**, Jichun Wu, Zhou Yang, Chi Jiang, Yin Zhang, Yan Zhang “Controlled Collaboration Geometry for Personalized Federated Learning”, **International Conference on Machine Learning (ICML)**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://icml.cc/virtual/2026/poster/61399)
 
-Awards
-======
-- ***2024***
-  - **重庆市优秀毕业硕士生**
-  - 硕士**优秀毕业论文**
-  - 硕士三年级学业**特等奖学金**（Top 5%）
-- ***Earlier***
-  - 硕士二年级学业**特等奖学金**（Top 5%）
-  - 本科**优秀毕业生**及**优秀毕业论文**
-  - 本科生**国家奖学金**
+- **Hongbo Yin**, Jinglin Wang, Chi Jiang, Ming Tao, Yin Zhang, Yan Zhang “FedTAC: Efficient Task Adaptive Collaboration for Personalized Federated Continual Learning in Edge Networks”, **IEEE GLOBECOM**, 2026. <span class="paper-note">(Accepted)</span>
 
-<span class='anchor' id='-Services'></span>
+- Chi Jiang, Tao Qiu, **Hongbo Yin**, Tianqing Zhu, Yin Zhang, Yan Zhang “Multi-Agent DAG Task Offloading in Vehicular Edge Networks with Topology and Resource Awareness”, **IEEE GLOBECOM**, 2026. <span class="paper-note">(Accepted)</span>
 
-Services
-======
-- Reviewer for IEEE Internet of Things Journal
-- Reviewer for AIoTSys 2024
-- Reviewer for IEEE Network Magazine
-  
-<span class='anchor' id='-Education'></span>
+- Xiaorui Luo, **Hongbo Yin**, Ziyu Chen, Yin Zhang “FedLing: Linguistic-Structure-Aware Federated Learning for Fair Multilingual LLM Adaptation”, **Findings of the Association for Computational Linguistics: EMNLP**, 2026. <span class="paper-note">(Accepted)</span> [[paper]](https://aclanthology.org/2026.findings-emnlp.440/)
 
-Education
-======
-- *2024.09 - Now*, University of Electronic Science and Technology of China, Electronic Information, Ph.D Degree Candidate
-- *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
-- *2017.09 - 2021.06*, Yangtze Normal University, Electronic information science and technology, Bachelor of Engineering
+- Chi Jiang, **Hongbo Yin**, Shuai Wang, Tianqing Zhu, Ming Tao, Yin Zhang, Yan Zhang “Multi-Modal and Multi-Scale Vulnerability Detection for Deployed Smart Contract Bytecode”, **IEEE Transactions on Dependable and Secure Computing**, 2026. <span class="paper-note">(Accepted)</span>
 
+- 王帅, **尹宏博**, 江池, 张科, 张引 “车联网中联邦学习模型低时延传输迁移方法研究”, **物联网学报**, 2025. [[paper]](https://www.wlwxb.com.cn/zh/article/doi/10.11959/j.issn.2096-3750.2026.00525/)
+
+- Binglei Yue, **Hongbo Yin**, Ke Zhang, Yin Zhang, Yan Zhang “ParaDepth: Distributed Multi-View 3D Reconstruction for Fire Scene”, **GPC**, 2025.
+
+- Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang “Joint Optimization of Energy Consumption and Network Latency in Blockchain-enabled Fog Computing Networks”, **China Communications**, 2024. [[paper]](https://ieeexplore.ieee.org/abstract/document/10507212)
+
+- Hanwen Zhang, Supeng Leng, **Hongbo Yin**, Shui Yu “Intelligent Consensus Enhanced Spectrum Sharing in Heterogeneous Wireless Networks”, **IEEE Internet of Things Journal**, 2024. [[paper]](https://ieeexplore.ieee.org/document/10584475)
+
+- Zixu Zhang, **Hongbo Yin**, Ying Wang, Guangsheng Yu, Xu Wang, Wei Ni, Ren Ping Liu “Enabling Efficient Cross-Shard Smart Contract Calling via Overlapping”, **ProvSec**, 2024. [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-0957-4_9)
+
+- **尹宏博**, 王帅, 张科, 张引 “车辆算力网络中异步鲁棒联邦学习方法研究”, **物联网学报**, 2024. [[paper]](https://www.wlwxb.com.cn/zh/article/doi/10.11959/j.issn.2096-3750.2024.00452/)
+
+- **Hongbo Yin**, Xiaoge Huang, Chengchao Liang, Bin Cao, Mu Zhou “Secure and Efficient Data Sharing for Internet of Vehicles: A Hierarchical Blockchain Enabled Asynchronous Federated Learning Approach”, **IEEE Transactions on Vehicular Technology**, 2024. [[paper]](https://ieeexplore.ieee.org/document/11015654)
+
+- Xiaoge Huang, **Hongbo Yin**, Qianbin Chen, Yu Zeng, Jianfeng Yao “DAG-based swarm learning: a secure asynchronous learning framework for Internet of Vehicles”, **Digital Communications and Networks**, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S2352864823001578)
+
+- **Hongbo Yin**, Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen “Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles”, **IEEE Communications Letters**, 2023. [[paper]](https://ieeexplore.ieee.org/document/10247620)
+
+- 黄晓舸, 吴雨航, **尹宏博**, 梁承超, 陈前斌 “车联网中基于有向无环图区块链的个性化联邦互蒸馏学习方法”, **电子与信息学报**, 2023. [[paper]](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT230976)
+
+- Xiaoge Huang, **Hongbo Yin**, Yongsheng Wang, Qianbin Chen, Jie Zhang “Location-Based Reliable Sharding in Blockchain-Enabled Fog Computing Networks”, **Wireless Communications and Signal Processing (WCSP)**, 2022. [[paper]](https://ieeexplore.ieee.org/document/10039136)
+
+<p class="publication-empty" hidden>No publications match your search. Try another title, author, or year.</p>
+</section>
+
+<div class="details-grid" markdown="1">
+<section class="content-section education-section" id="-Education" aria-labelledby="education-title" markdown="1">
+
+<div class="section-heading"><div><p class="section-kicker">BACKGROUND</p><h2 id="education-title">Education<span class="heading-period">.</span></h2></div></div>
+
+<ul class="education-timeline">
+<li><span class="education-date">2024.09 — Present</span><div><h3>University of Electronic Science and Technology of China</h3><p>Ph.D. Candidate · Electronic Information</p></div></li>
+<li><span class="education-date">2021.09 — 2024.06</span><div><h3>Chongqing University of Posts and Telecommunications</h3><p>Master of Engineering · Information and Communication Engineering</p></div></li>
+<li><span class="education-date">2017.09 — 2021.06</span><div><h3>Yangtze Normal University</h3><p>Bachelor of Engineering · Electronic Information Science and Technology</p></div></li>
+</ul>
+
+</section>
+
+<section class="content-section services-section" id="-Services" aria-labelledby="services-title" markdown="1">
+
+<div class="section-heading"><div><p class="section-kicker">ACADEMIC COMMUNITY</p><h2 id="services-title">Service<span class="heading-period">.</span></h2></div></div>
+
+<p class="service-label">Reviewer</p>
+
+- IEEE Internet of Things Journal
+- IEEE Network Magazine
+- AIoTSys 2024
+
+</section>
+</div>
